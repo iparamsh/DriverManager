@@ -1,0 +1,15 @@
+C:\Users\illya\source\repos\DriverManager\DriverManager\bin\Debug\netcoreapp3.1\DriverManager.exe
+C:\Users\illya\source\repos\DriverManager\DriverManager\bin\Debug\netcoreapp3.1\DriverManager.deps.json
+C:\Users\illya\source\repos\DriverManager\DriverManager\bin\Debug\netcoreapp3.1\DriverManager.runtimeconfig.json
+C:\Users\illya\source\repos\DriverManager\DriverManager\bin\Debug\netcoreapp3.1\DriverManager.runtimeconfig.dev.json
+C:\Users\illya\source\repos\DriverManager\DriverManager\bin\Debug\netcoreapp3.1\DriverManager.dll
+C:\Users\illya\source\repos\DriverManager\DriverManager\bin\Debug\netcoreapp3.1\DriverManager.pdb
+C:\Users\illya\source\repos\DriverManager\DriverManager\obj\Debug\netcoreapp3.1\DriverManager.csproj.AssemblyReference.cache
+C:\Users\illya\source\repos\DriverManager\DriverManager\obj\Debug\netcoreapp3.1\DriverManager.Manager.resources
+C:\Users\illya\source\repos\DriverManager\DriverManager\obj\Debug\netcoreapp3.1\DriverManager.csproj.GenerateResource.cache
+C:\Users\illya\source\repos\DriverManager\DriverManager\obj\Debug\netcoreapp3.1\DriverManager.AssemblyInfoInputs.cache
+C:\Users\illya\source\repos\DriverManager\DriverManager\obj\Debug\netcoreapp3.1\DriverManager.AssemblyInfo.cs
+C:\Users\illya\source\repos\DriverManager\DriverManager\obj\Debug\netcoreapp3.1\DriverManager.csproj.CoreCompileInputs.cache
+C:\Users\illya\source\repos\DriverManager\DriverManager\obj\Debug\netcoreapp3.1\DriverManager.dll
+C:\Users\illya\source\repos\DriverManager\DriverManager\obj\Debug\netcoreapp3.1\DriverManager.pdb
+C:\Users\illya\source\repos\DriverManager\DriverManager\obj\Debug\netcoreapp3.1\DriverManager.genruntimeconfig.cache
